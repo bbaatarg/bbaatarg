@@ -1,8 +1,21 @@
-- 👋 Hi, I’m @bbaatarg
-- 👀 I’m interested in iOS app development & UI/UX
-- 🌱 I’m currently SwiftUI, Flutter
-- 💞️ I’m looking to collaborate on other talented devs
-- email me 📫 bbaatarg@gmail.com
+### 👋 Hey there! I'm Bay
+
+Senior iOS wizard 🧙‍♂️ turning coffee into code since 2012. Currently crafting delightful mobile experiences in Australia 🦘
+
+🎯 What I do:
+- Build awesome iOS apps that people love to use
+- Make pixels dance with Swift & Flutter
+- Turn complex problems into elegant solutions
+- Mentor fellow developers on their coding journey
+
+🛠 Tech I love:
+Swift • SwiftUI • Flutter • Objective-C • Firebase • AWS
+
+💡 Fun fact: I helped build Mongolia's #1 food delivery app! When I'm not coding, you'll find me exploring new tech, mentoring developers, or dreaming up the next big app idea.
+
+🤝 Always up for interesting collaborations and tech chats!
+
+📫 Let's connect: bbaatarg@gmail.com
 
 ![Build Status](https://img.shields.io/github/workflow/status/user/repo/CI)
 
