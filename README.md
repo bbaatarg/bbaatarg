@@ -1,26 +1,19 @@
-### 👋 Hey there! I'm Bay
+### 👋 Hi, I'm John Bayar
 
-Senior iOS wizard 🧙‍♂️ turning coffee into code since 2012. Currently crafting delightful mobile experiences in Australia 🦘
+**Senior Mobile Architect & AI Engineer** Bridging the gap between polished Mobile UX and scalable Generative AI Infrastructure. 
+Based in Sydney 🇦🇺
 
-🎯 What I do:
-- Build awesome iOS apps that people love to use
-- Make pixels dance with Swift & Flutter
-- Turn complex problems into elegant solutions
-- Mentor fellow developers on their coding journey
+🚀 **Current Focus:**
+Building **Multi-Agent Orchestration Platforms** on AWS using FastAPI & Next.js. I specialize in architectures that don't just "wrap" APIs but manage complex state, security, and scale.
 
-🛠 Tech I love:
-Swift • SwiftUI • Flutter • Objective-C • Firebase • AWS
+🛠 **Tech Stack:**
+* **AI/ML:** Python (FastAPI), LangChain, Multi-Agent Systems, Ollama (Local LLMs), CoreML
+* **Mobile:** Swift, SwiftUI, Objective-C, Flutter (13+ years exp)
+* **Cloud:** AWS EC2, Supabase (PostgreSQL), Docker, Nginx
 
-💡 Fun fact: I helped build Mongolia's #1 food delivery app! When I'm not coding, you'll find me exploring new tech, mentoring developers, or dreaming up the next big app idea.
+🏆 **Highlights:**
+* **ROMA:** Architected a Multi-Agent GenAI platform enabling dynamic model chaining (DeepSeek, GLM) with a custom "Logic" configuration UI.
+* **Enterprise Mobile:** Built Mongolia's #1 Ridesharing & Food Delivery apps (1.5M+ users).
+* **Optimization:** Reduced API costs by 95% for high-volume location services.
 
-🤝 Always up for interesting collaborations and tech chats!
-
-🧑‍💻 My Portfolio website: https://bbaatarg.github.io/ 
-📫 Let's connect: bbaatarg@gmail.com
-
-![Build Status](https://img.shields.io/github/workflow/status/user/repo/CI)
-
-<!---
-bbaatarg/bbaatarg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 **Connect:** [bbaatarg@gmail.com](mailto:bbaatarg@gmail.com) | [LinkedIn](https://www.linkedin.com/in/bbaatarg) | [Portfolio](https://bbaatarg.github.io/)
